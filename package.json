@@ -1,0 +1,24 @@
+{
+  "name": "bingo-card",
+  "version": "1.0.0",
+  "description": "bingo card generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davejagoda/bingo-card.git"
+  },
+  "keywords": [
+    "bingo",
+    "card",
+    "generator"
+  ],
+  "author": "dj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davejagoda/bingo-card/issues"
+  },
+  "homepage": "https://github.com/davejagoda/bingo-card"
+}
