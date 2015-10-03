@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/davejagoda/bingo-card/issues"
   },
-  "homepage": "https://github.com/davejagoda/bingo-card"
+  "homepage": "https://github.com/davejagoda/bingo-card",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
