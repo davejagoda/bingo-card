@@ -27,10 +27,10 @@ bingo-card
 
 `heroku create bingo-card`
 
-`npm init`
+`express bingo-card`
 
-*accept defaults except for description, keywords, and author*
+`mv -i bingo-card/* .`
 
-`npm install express --save`
+`npm install`
 
-*much output from the installation of the express package*
+*much output from the npm install of dependencies*
