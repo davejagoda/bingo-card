@@ -23,6 +23,6 @@ bingo-card
 
 `heroku auth`
 
-*make sure you the previous commands shows you are the right heroku user*
+*previous command shows that you are the right heroku user if you have more than one heroku account*
 
 `heroku create bingo-card`
