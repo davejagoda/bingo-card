@@ -13,7 +13,7 @@ bingo-card
 
 `git remote add origin git@github.com:davejagoda/bingo-card.git`
 
-`echo -e "# Emacs\n*~" > .gitignore`
+`echo -e "# emacs\n*~" > .gitignore`
 
 `git add .gitignore`
 
@@ -26,3 +26,11 @@ bingo-card
 *previous command shows that you are the right heroku user if you have more than one heroku account*
 
 `heroku create bingo-card`
+
+`npm init`
+
+*accept defaults except for description, keywords, and author*
+
+`npm install express --save`
+
+*much output from the installation of the express package*
