@@ -5,11 +5,11 @@ bingo-card
 
 ## This software should be installed on your computer:
 
-- curl
-- git
+- `curl`
+- `git`
 - nodejs (`node` and `npm`)
-- expressjs
-- heroku toolbelt
+- expressjs (`express`)
+- heroku toolbelt (`heroku`)
 
 ## You should have at least the following accounts:
 
