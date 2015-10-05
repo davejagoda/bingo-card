@@ -11,7 +11,7 @@ bingo-card
 - expressjs
 - heroku toolbelt
 
-## You should have at least the following accounts;
+## You should have at least the following accounts:
 
 - github
 - heroku
