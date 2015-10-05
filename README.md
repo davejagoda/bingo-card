@@ -3,8 +3,18 @@ bingo-card
 
 # prerequisites
 
-- nodejs
+## This software should be installed on your computer:
+
+- curl
+- git
+- nodejs (`node` and `npm`)
 - expressjs
+- heroku toolbelt
+
+## You should have at least the following accounts;
+
+- github
+- heroku
 
 # instructions
 
