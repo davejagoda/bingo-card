@@ -1,6 +1,13 @@
 bingo-card
 ==========
 
+# prerequisites
+
+- nodejs
+- expressjs
+
+# instructions
+
 `mkdir bingo-card`
 
 `cd bingo-card`
