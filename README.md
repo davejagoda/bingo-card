@@ -38,7 +38,7 @@ bingo-card
 
 `git push -u origin master`
 
-`heroku auth`
+`heroku auth:whoami`
 
 *previous command shows that you are the right heroku user if you have more than one heroku account*
 
